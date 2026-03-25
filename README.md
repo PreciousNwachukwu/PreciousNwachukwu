@@ -1,4 +1,4 @@
-# Hi, I'm Precious Nwachukwu
+# Hi, I'm Precious Nwachukwu, Data Analyst| Bi Analyst  
 
 > I turn messy business data into profit-focused decisions for small businesses and startups.
 
