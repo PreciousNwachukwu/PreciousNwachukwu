@@ -52,7 +52,7 @@ Analysed 500 transactions across a full year for an Abuja general provisions sto
 
 ## Currently Building
 
-**Personal Finance Tracker — Mobile-First Excel Tool**
+**Personal Finance Tracker, Mobile-First Excel Tool**
 
 A practical money management tracker built for everyday Nigerians, designed to work on the free Excel mobile app, no laptop required. Tracks income, expenses, savings, and spending patterns with automatic summaries and visual breakdowns.
 
